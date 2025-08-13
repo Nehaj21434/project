@@ -9,4 +9,4 @@ total_area = 4 * (length * heigth)
 
 total_cost = total_area * costPer_sqm
 
-print("total cost of painting the walls is RS,(total_cost)")
+print("total cost of painting the walls is RS",(total_cost))
