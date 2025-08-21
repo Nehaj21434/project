@@ -1,0 +1,12 @@
+def is_strong(num):
+  temp = num
+  sum_fact = 0
+  while temp > 0:
+     digit = temp % 10
+     sum_fact += factorial
+     temp //= 10
+num = int(input("enter the number:" ))
+if is_strong(num):
+   print(f'{num} is the strong number')
+else:
+   print(f'{num} is not the strong number')
