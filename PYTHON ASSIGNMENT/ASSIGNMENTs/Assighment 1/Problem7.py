@@ -2,9 +2,9 @@
 
 # This program calculates the root of quadratic equation
 #  based on the coefficients a, b, and c.
-a = int(input("Enter the cofficient A:"))
-b = int(input("Enter the cofficient B:"))
-c = int(input("Enter the cofficient C:"))
+a = int(input("Enter the coefficient A:"))
+b = int(input("Enter the coefficient B:"))
+c = int(input("Enter the coefficient C:"))
 
 ans = b * b - 4 * a * c
 ans = ans ** 0.5
